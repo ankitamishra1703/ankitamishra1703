@@ -37,3 +37,5 @@ Hello, I'm Ankita (turtlebeasts). I'm a computer science student
 
 _Here's more about me on_
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="instagram" width="16"/>](https://www.instagram.com/ankitamishra03_/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="16"/>](https://www.linkedin.com/in/ankita-mishra-0a5837307)
+
