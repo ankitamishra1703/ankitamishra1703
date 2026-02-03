@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hello, I'm Ankita (turtlebeasts). I'm a computer science student
+Hello, I'm Ankita . I'm a computer science student
 
     1. I enjoy creating projects 😀
     2. I like learning new technologies 🧑‍🔬 and implement them 🎓
